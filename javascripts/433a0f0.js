@@ -3465,13 +3465,13 @@
                     },
                     name: "home-it-solutions2"
                 }, {
-                    path: "/home-marketing-startup",
+                    path: "",
                     component: function() {
                         return Object(w.n)(Promise.all([n.e(3), n.e(33)]).then(n.bind(null, 586)))
                     },
                     name: "home-marketing-startup"
                 }, {
-                    path: "/home-marketing-startup-onePage",
+                    path: "-onePage",
                     component: function() {
                         return Object(w.n)(Promise.all([n.e(3), n.e(32)]).then(n.bind(null, 587)))
                     },
